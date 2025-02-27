@@ -1,1 +1,1 @@
-print("Devops operations")
+print("Devops operation")
